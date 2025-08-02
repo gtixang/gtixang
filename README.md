@@ -1,4 +1,4 @@
-[картинка](assets/angular.jfif "Angular")
+![Angular](assets/angular.jfif)
 
 👋 Добро пожаловать! Меня зовут Рунар.
 
