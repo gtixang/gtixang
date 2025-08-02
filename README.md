@@ -4,13 +4,13 @@
 </p>
 
 <!-- Приветствие -->
-<h1 align="center">Привет, я Рунар 👋</h1>
-<p align="center">
+<h1>Привет, я Рунар 👋</h1>
+<p>
   Frontend-разработчик | Люблю Angular, RxJS и красивые UI
 </p>
 
 <!-- Бейджи технологий -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
