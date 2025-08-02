@@ -1,6 +1,6 @@
 <!-- Баннер профиля -->
 <p align="center">
-  <img src="assets/angular.png" width="800" height="200" alt="Мой баннер"/>
+  <img src="assets/angular.png" width="800"  alt="Мой баннер"/>
 </p>
 
 <!-- Приветствие -->
