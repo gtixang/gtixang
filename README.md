@@ -1,6 +1,6 @@
 <!-- Баннер профиля -->
 <p align="center">
-  <img src="assets/banner.jpg" width="800" alt="Мой баннер"/>
+  <img src="assets/angular.jfif" width="800" alt="Мой баннер"/>
 </p>
 
 <!-- Приветствие -->
@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ---
@@ -24,10 +26,6 @@
 - 🌐 Создаю современные SPA на **Angular**
 - ⚡ Использую **RxJS** и **NgRx** для управления состоянием
 - 🛠 Обожаю **чистый код** и архитектуру с **Nx**
-
-![Angular](assets/angular.jfif)
-
-👋 Добро пожаловать! Меня зовут Рунар.
 
 ## В работе использую следующий стек технологий и инструменты
 
