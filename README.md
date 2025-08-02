@@ -1,6 +1,3 @@
-<!-- Баннер профиля -->
-  <img src="assets/angular.png" width="800" height="300" style="backgroundSize:cover"  alt="Мой баннер"/>
-  
 <!-- Приветствие -->
 <h1 align="center">Привет, я Рунар 👋</h1>
 <p align="center">
