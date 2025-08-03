@@ -1,6 +1,6 @@
 <!-- Приветствие -->
 
-<img src="assets/ang.png" />
+<img src="assets/ang.png" height="400" />
 <img src="assets/ang2.jpg" />
 <h1>Привет, я Рунар 👋</h1>
 <p>
