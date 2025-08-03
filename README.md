@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-FF7362?style=for-the-badge&logo=Figma&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/-Figma-FF7362?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-2196F3?style=for-the-badge&logo=CSS3&logoColor=white" />
   
