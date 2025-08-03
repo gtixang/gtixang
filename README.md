@@ -1,13 +1,8 @@
-<!-- Приветствие -->
-
-<img src="assets/ang.png" width="840" height="300" />
-<img src="assets/ang2.jpg" />
 <h1>Привет, я Рунар 👋</h1>
 <p>
   Frontend-разработчик | Люблю Angular, RxJS и красивые UI
 </p>
 
-<!-- Бейджи технологий -->
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white" />
