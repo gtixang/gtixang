@@ -35,8 +35,6 @@ I am a Software Developer who possess a profound passion for the expansive unive
 #### State Management
 ![NgRx Logo](https://github.com/gtixang/gtixang/blob/main/ngrx-logo.svg?raw=true)
 ![Redux](https://skillicons.dev/icons?i=redux)
-
-
 #### Libraries
 ![Libraries](https://skillicons.dev/icons?i=rxjs,tailwind,socketio)
 #### Tools and Platforms
