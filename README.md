@@ -26,9 +26,11 @@ I am a Software Developer who possess a profound passion for the expansive unive
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Light%20Skin%20Tone.png" width="45px"/> Skills
 
 #### Languages
-![My Skills](https://skillicons.dev/icons?i=js,typescript,java,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)
 #### Frameworks and Libraries
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,sass)
+![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap,sass)
+#### Libraries
+![Libraries](https://skillicons.dev/icons?i=rxjs,tailwind,socketio)
 #### Tools and Platforms
 ![My Skills](https://skillicons.dev/icons?i=git,firebase,appwrite,figma,aws,redux)
 
