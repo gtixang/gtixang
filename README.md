@@ -31,6 +31,10 @@ I am a Software Developer who possess a profound passion for the expansive unive
 ![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap,sass)
 #### State Management
 ![State Management](https://skillicons.dev/icons?i=ngrx,redux)
+#### State Management
+![State Management](https://www.veryicon.com/icons/business/vscode-program-item-icon/ngrx-actions.html)
+![State Management](https://skillicons.dev/icons?i=redux)
+
 #### Libraries
 ![Libraries](https://skillicons.dev/icons?i=rxjs,tailwind,socketio)
 #### Tools and Platforms
