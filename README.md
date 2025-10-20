@@ -30,10 +30,7 @@ I am a Software Developer who possess a profound passion for the expansive unive
 #### Frameworks and Libraries
 ![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap,sass)
 #### State Management
-![State Management](https://skillicons.dev/icons?i=ngrx,redux)
-![NgRx Logo]([https://ngrx.io/assets/images/ngrx-logo.svg](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/ngrx-actions.png))
-#### State Management
-![NgRx Logo](https://github.com/gtixang/gtixang/blob/main/ngrx-logo.svg?raw=true)
+<img src="https://github.com/gtixang/gtixang/blob/main/ngrx-logo.svg?raw=true" alt="NgRx Logo" width="50">
 ![Redux](https://skillicons.dev/icons?i=redux)
 #### Libraries
 ![Libraries](https://skillicons.dev/icons?i=rxjs,tailwind,socketio)
