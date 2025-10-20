@@ -23,7 +23,7 @@ I am a Software Developer who possess a profound passion for the expansive unive
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
 </a>
 
-###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Medium-Dark%20Skin%20Tone.png" alt="Artist Medium-Dark Skin Tone" width="37" /> Skills
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Light%20Skin%20Tone.png" width="45px"/> Skills
 
 #### Languages
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,java,html,css)
