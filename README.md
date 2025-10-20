@@ -9,14 +9,19 @@ I am a Software Developer who possess a profound passion for the expansive unive
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github.runar@gmail.com)
 
-<a href="mailto:github.runar@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
-<a href="mailto:inelusjudelin01@gmail.com">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- Gmail -->
+<a href="mailto:github.runar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.judelininelus.com">
-	<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/frontend-runar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Portfolio -->
+<a href="https://www.judelininelus.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
 </a>
 
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Medium-Dark%20Skin%20Tone.png" alt="Artist Medium-Dark Skin Tone" width="37" /> Skills
