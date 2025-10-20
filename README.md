@@ -34,6 +34,5 @@ I am a Software Developer who possess a profound passion for the expansive unive
 #### Tools and Platforms
 ![My Skills](https://skillicons.dev/icons?i=git,figma)
 
-## Я всегда на связи в Telegram
-
+## I'm always in touch on Telegram
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
