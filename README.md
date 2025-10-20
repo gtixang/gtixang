@@ -33,11 +33,7 @@ I am a Software Developer who possess a profound passion for the expansive unive
 ![State Management](https://skillicons.dev/icons?i=ngrx,redux)
 ![NgRx Logo]([https://ngrx.io/assets/images/ngrx-logo.svg](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/ngrx-actions.png))
 #### State Management
-![NgRx](https://raw.githubusercontent.com/yourusername/assets/main/ngrx-logo.png)
-![Redux](https://skillicons.dev/icons?i=redux)
-
-#### State Management
-![NgRx](https://worldvectorlogo.com/logos/ngrx.svg)
+![NgRx Logo](https://github.com/gtixang/gtixang/blob/main/ngrx-logo.svg?raw=true)
 ![Redux](https://skillicons.dev/icons?i=redux)
 
 
