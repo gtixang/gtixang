@@ -31,7 +31,7 @@ I am a Software Developer who possess a profound passion for the expansive unive
 ![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap,sass)
 #### State Management
 ![State Management](https://skillicons.dev/icons?i=ngrx,redux)
-![NgRx Logo](https://ngrx.io/assets/images/ngrx-logo.svg)
+![NgRx Logo]([https://ngrx.io/assets/images/ngrx-logo.svg](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/ngrx-actions.png))
 #### State Management
 ![NgRx]([https://raw.githubusercontent.com/ngrx/platform/main/docs/assets/images/ngrx-logo.svg](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/ngrx-actions.png))
 ![Redux](https://skillicons.dev/icons?i=redux)
