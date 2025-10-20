@@ -7,7 +7,6 @@ I am a Software Developer who possess a profound passion for the expansive unive
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="45px"/> Let's Connect
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github.runar@gmail.com)
 
 <!-- Gmail -->
 <a href="mailto:github.runar@gmail.com" target="_blank">
