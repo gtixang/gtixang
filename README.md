@@ -30,8 +30,10 @@ I am a Software Developer who possess a profound passion for the expansive unive
 #### Frameworks and Libraries
 ![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,rxjs,vite)
 #### State Management
+<div style="display: flex; gap: 10px; align-items: center;">
 <img src="https://github.com/gtixang/gtixang/blob/main/ngrx.svg?raw=true" alt="NgRx Logo" width="50">
 <img src="https://skillicons.dev/icons?i=redux" alt="Redux Logo" width="50" height="50">
+</div>
 #### Tools and Platforms
 ![My Skills](https://skillicons.dev/icons?i=git,figma)
 
