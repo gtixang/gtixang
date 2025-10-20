@@ -31,7 +31,7 @@ I am a Software Developer who possess a profound passion for the expansive unive
 ![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind,bootstrap,sass)
 #### State Management
 <img src="https://github.com/gtixang/gtixang/blob/main/ngrx-logo.svg?raw=true" alt="NgRx Logo" width="50">
-![Redux](https://skillicons.dev/icons?i=redux)
+<img src="https://skillicons.dev/icons?i=redux" alt="Redux Logo" width="50">
 #### Libraries
 ![Libraries](https://skillicons.dev/icons?i=rxjs,tailwind,socketio)
 #### Tools and Platforms
