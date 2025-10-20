@@ -32,8 +32,9 @@ I am a Software Developer who possess a profound passion for the expansive unive
 #### State Management
 ![State Management](https://skillicons.dev/icons?i=ngrx,redux)
 #### State Management
-![State Management](https://www.veryicon.com/icons/business/vscode-program-item-icon/ngrx-actions.html)
+![State Management](https://ngrx.io/assets/images/ngrx-logo.svg)
 ![State Management](https://skillicons.dev/icons?i=redux)
+
 
 #### Libraries
 ![Libraries](https://skillicons.dev/icons?i=rxjs,tailwind,socketio)
