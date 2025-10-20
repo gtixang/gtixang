@@ -35,6 +35,9 @@ I am a Software Developer who possess a profound passion for the expansive unive
 #### State Management
 ![NgRx]([https://raw.githubusercontent.com/ngrx/platform/main/docs/assets/images/ngrx-logo.svg](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/ngrx-actions.png))
 ![Redux](https://skillicons.dev/icons?i=redux)
+#### State Management
+![NgRx](https://raw.githubusercontent.com/ngrx/platform/main/docs/assets/images/ngrx-logo.svg)
+![Redux](https://skillicons.dev/icons?i=redux)
 
 
 #### Libraries
