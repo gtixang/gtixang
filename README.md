@@ -1,10 +1,13 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="45px"/>! I'm <a href="https://www.judelininelus.com">Runar</a> </h2>
+<h2>Привет <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="45px"/>! Меня зовут <a href="https://www.judelininelus.com">Runar</a></h2>
 
-### <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
-I am a Software Developer who possess a profound passion for the expansive universe of programming and an unwavering commitment to lifelong learning. My core competencies are deeply rooted in **integration**, elevating **user interfaces**, and enriching the **user experience**. I excel in tackling complex challenges and devising **innovative solutions** that push the boundaries of technology and design.
+### <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Немного обо мне
+Я — разработчик программного обеспечения, увлечённый миром программирования и непрерывным обучением.  
+Мои основные навыки сосредоточены на **интеграции**, **улучшении пользовательских интерфейсов** и **повышении удобства использования**.  
+Мне нравится решать сложные задачи и находить **инновационные решения**, которые расширяют границы технологий и дизайна.
 
-### Let's Connect
+---
 
+### Связаться со мной
 
 <!-- Gmail -->
 <a href="mailto:github.runar@gmail.com" target="_blank">
@@ -18,23 +21,20 @@ I am a Software Developer who possess a profound passion for the expansive unive
 
 <!-- Portfolio -->
 <a href="https://www.judelininelus.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Портфолио-255E63?style=for-the-badge&logoColor=white" />
 </a>
 
-### Skills
+---
 
-#### Languages
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)
-#### Frameworks and Libraries
-![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,rxjs,vite)
-#### State Management
-<div style="display: flex; gap: 10px; align-items: center;">
-<img src="https://github.com/gtixang/gtixang/blob/main/ngrx.svg?raw=true" alt="NgRx Logo" width="50">
-<img src="https://skillicons.dev/icons?i=redux" alt="Redux Logo" width="50" height="50">
+### 💻 Технологии
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=js,typescript,html,css,angular,nextjs,rxjs,vite,git,figma" alt="Tech stack" />
+  <img src="https://github.com/gtixang/gtixang/blob/main/ngrx.svg?raw=true" alt="NgRx" width="50" />
 </div>
 
-#### Tools and Platforms
-![My Skills](https://skillicons.dev/icons?i=git,figma)
+---
 
-## I'm always in touch on Telegram
+## Я всегда на связи в Telegram
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
+
