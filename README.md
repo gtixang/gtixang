@@ -20,7 +20,7 @@
 </a>
 
 <!-- Portfolio -->
-<a href="https://www.judelininelus.com" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Портфолио-255E63?style=for-the-badge&logoColor=white" />
 </a>
 
