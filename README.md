@@ -82,9 +82,9 @@
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Zustand" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg"  width="36" height="36" alt="NGRX"/>
       </a>
-      <br>Zustand
+      <br>NGRX
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
