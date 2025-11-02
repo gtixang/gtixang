@@ -70,7 +70,7 @@
   <tr>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular-original.svg" width="36" height="36" alt="Angular" />
       </a>
       <br>React
     </td>
