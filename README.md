@@ -212,8 +212,6 @@ and playing **chess** ♟️ in my free time.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtixang)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ### Связаться со мной
 
 <!-- Gmail -->
