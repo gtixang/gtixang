@@ -12,7 +12,7 @@
 </table>
 
 <br>
-<h2 align="left" id="ndiuky-stack">🔥 Tech stack</h2>
+<h2 align="left" id="ndiuky-stack">🔥 Технологический стек</h2>
 
 > General
 
