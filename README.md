@@ -210,7 +210,7 @@ and playing **chess** ♟️ in my free time.
   </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanacoder228)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtixang)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
