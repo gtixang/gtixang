@@ -223,7 +223,7 @@ and playing **chess** ♟️ in my free time.
 <a href="https://www.linkedin.com/in/frontend-runar/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
----
+
 
 ## Я всегда на связи в Telegram
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
