@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="36" height="36" alt="RxJs"/>
       </a>
       <br>RxJs
     </td>
