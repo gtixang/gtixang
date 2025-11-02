@@ -113,32 +113,6 @@
   </tr>
 </table>
 
-
-> Testing
-
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="36" height="36" alt="Storybook" />
-      </a>
-      <br>Storybook
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://user-images.githubusercontent.com/378279/27998811-43b9906e-6515-11e7-835a-6f596506cc46.png" width="36" height="36" alt="Loki" />
-      </a>
-      <br>Loki
-    </td>
-  </tr>
-</table>
-
 > Code quality
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
