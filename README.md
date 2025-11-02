@@ -113,48 +113,6 @@
   </tr>
 </table>
 
-> Backend
-
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" width="36" height="36" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="36" height="36" alt="NestJS" />
-      </a>
-      <br>NestJS
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" width="36" height="36" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://miro.medium.com/v2/resize:fit:1050/1*OYpEW3PMltGC2MVvJ-5QTw.png" width="36" height="36" alt="Mongoose" />
-      </a>
-      <br>Mongoose
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8wccds3d6jqdrqssn2v.jpg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-  </tr>
-</table>
 
 > Testing
 
