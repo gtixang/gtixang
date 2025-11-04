@@ -104,12 +104,6 @@
       </a>
       <br>Sass
     </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" />
-      </a>
-      <br>Tailwind
-    </td>
   </tr>
 </table>
 
