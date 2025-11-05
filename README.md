@@ -136,6 +136,29 @@
   </tr>
 </table>
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <a href="https://github.com/gtixang/github-readme-stats">
+    <img
+      style="height: 200px; object-fit: contain;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtixang&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"
+    />
+  </a>
+
+  <a href="https://github.com/gtixang/github-readme-stats" title="Go to Source">
+    <img
+      style="height: 200px; object-fit: contain;"
+      src="https://github-readme-stats.vercel.app/api?username=gtixang&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+    />
+  </a>
+</div>
+
+<br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=gtixang&theme=react-dark&bg_color=20232a&hide_border=true"
+  width="100%"
+/>
+
 <h2>⚡ Статистика ⚡</h2>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
