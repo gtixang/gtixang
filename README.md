@@ -136,9 +136,9 @@
   </tr>
 </table>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Статистика ⚡</h2>
 <br>
-<p align=center>
+<p>
   <div align=center>
     <a href="https://github.com/gtixang/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gtixang&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
