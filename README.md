@@ -138,11 +138,6 @@
 
 <br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=gtixang&theme=react-dark&bg_color=20232a&hide_border=true"
-  width="100%"
-/>
-
 <h2>⚡ Статистика ⚡</h2>
 <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
