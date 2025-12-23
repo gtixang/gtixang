@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 
 
-<h2 align="left" id="ndiuky-stack">🛠️ Технологии</h2>
+🛠️ **Технологии**
 
 > General
 
