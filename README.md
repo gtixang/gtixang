@@ -10,6 +10,7 @@
 -  Компонентная архитектура и современный подход к разработке
 
 📫 Давайте свяжемся: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
+### Я всегда на связи в Telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 
 <h2 align="left" id="ndiuky-stack">🛠️ Технологии</h2>
 
