@@ -154,7 +154,3 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=gtixang&theme=react-dark&bg_color=20232a&hide_border=true"
   width="100%"
 />
-
-### Я всегда на связи в Telegram
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
-
