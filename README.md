@@ -9,14 +9,7 @@
 -  **Технологии:** Angular | TypeScript | JavaScript | RxJS | NgRx | HTML | CSS | SCSS | Tailwind | Git | GitHub | CI/CD  
 -  Компонентная архитектура и современный подход к разработке
 
-📫 Давайте свяжемся: 
-<img src="https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram" alt="Telegram" style="vertical-align:middle">
-
 📫 **Давайте свяжемся**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
-📫 **Давайте свяжемся**: 
-<a href="https://t.me/runar_n">
-  <img src="https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram" alt="Telegram" style="vertical-align:middle">
-</a>
 
 
 🛠️ **Технологии**
