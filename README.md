@@ -14,6 +14,13 @@
 - Оптимизация производительности приложений
 - Чистый и поддерживаемый код
 
+🛠 **Навыки:**
+- 🔹 Angular | TypeScript | JavaScript  
+- 🔹 RxJS | NgRx | Component Architecture  
+- 🔹 HTML | CSS | SCSS | Tailwind  
+- 🔹 Git | GitHub | CI/CD  
+
+
 📫 Давайте свяжемся: [Telegram](https://t.me/runar_n) | [Email](mailto:github.runarn@gmail.com)
 
 <h2 align="left" id="ndiuky-stack">🛠️ Технологии</h2>
