@@ -1,12 +1,12 @@
  ## Добро пожаловать👋 Меня зовут Рунар.
  
-👨‍💻 **Frontend-разработчик**  Angular | TypeScript | JavaScript  
+👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  
 
 🛠 **Навыки и умения:**
 -  Создаю масштабируемые и удобные веб-приложения  
 -  Оптимизирую производительность интерфейсов и скорость загрузки  
 -  Пишу чистый, поддерживаемый и понятный код
--  **Технологии:** Angular | TypeScript | JavaScript | RxJS | NgRx | Nx | Git | GitHub | CI/CD  
+-  **Технологии:** React | TypeScript | JavaScript | Next.js | Git | GitHub 
 
 📫 **Давайте свяжемся**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 
