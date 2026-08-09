@@ -1,8 +1,6 @@
  ## Добро пожаловать👋 Меня зовут Рунар.
  
-👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  
-
--  **Технологии:** React | TypeScript | JavaScript | Next.js | Git | GitHub 
+👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  | Next.js
 
 📫 **Давайте свяжемся**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 
