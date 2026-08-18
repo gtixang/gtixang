@@ -6,8 +6,9 @@
 
 🛠️ **Технологии**
 
-> General
+<h3>🛠️ Tech Stack</h3>
 
+<blockquote><b>Core & Frontend</b></blockquote>
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
@@ -18,28 +19,82 @@
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://jsdelivr.net" width="36" height="36" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
       </a>
-      <br>HTML
+      <br>HTML5
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
       </a>
-      <br>CSS
+      <br>CSS3
     </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+</table>
+
+<blockquote><b>Build Tools & Code Quality</b></blockquote>
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://jsdelivr.net" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="Eslint" />
+      </a>
+      <br>ESLint
+    </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://raw.githubusercontent.com/hipstersmoothie/stylelint-formatter-github/HEAD/logo.png" width="36" height="36" alt="Stylelint" />
+      </a>
+      <br>Stylelint
+    </td>
+    <td align="center" width="110" height="90" style="vertical-align: middle;">
+      <a href="#ndiuky-stack">
+        <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.png" width="36" height="36" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+  </tr>
+</table>
+
+<blockquote><b>Design & Version Control</b></blockquote>
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
+  <tr>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
@@ -57,56 +112,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
       </a>
       <br>GitHub
-    </td>
-  </tr>
-</table>
-
-> Frontend
-
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-</table>
-
-> Code quality
-
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://raw.githubusercontent.com/hipstersmoothie/stylelint-formatter-github/HEAD/logo.png" width="36" height="36" alt="Stylelint" />
-      </a>
-      <br>Stylelint
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.png" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>Prettier
     </td>
   </tr>
 </table>
