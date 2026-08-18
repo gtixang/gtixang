@@ -109,9 +109,9 @@
     </td>
   </tr>
 </table>
-📫 **Мой тг для связи**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 <br>
-
+📫 **Для связи со мной**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
+<br>
 ⚡**Статистика**
 <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
