@@ -1,6 +1,8 @@
  ## Hello there! 👋
  
 👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  | Next.js
+🔹 Фронтенд-разработчик, специализирующийся на React
+🔹 Опыт работы с TypeScript, React.js, Next.js
 
 <blockquote><b>Core & Frontend</b></blockquote>
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
