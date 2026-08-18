@@ -1,4 +1,4 @@
- ## Добро пожаловать👋 Меня зовут Рунар.
+ ## Hello there! 👋
  
 👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  | Next.js
 
