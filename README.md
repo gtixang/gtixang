@@ -48,8 +48,9 @@
       <br>Sass
     </td>
   </tr>
- 📫 **Для связи со мной**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 </table>
+
+**Для связи со мной**: [![Telegram](https://shields.io)](https://t.me/runar_n)
 
 <blockquote><b>Build Tools & Code Quality</b></blockquote>
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
