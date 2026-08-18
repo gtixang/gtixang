@@ -66,8 +66,8 @@
       <br>Webpack
     </td>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://jsdelivr.net" width="36" height="36" alt="Vite" />
+       <a href="#ndiuky-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/vite-original.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td>
