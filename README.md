@@ -2,8 +2,6 @@
  
 👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  | Next.js
 
-📫 **Давайте свяжемся**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
-
 <h3>🛠️ Tech Stack</h3>
 
 <blockquote><b>Core & Frontend</b></blockquote>
@@ -138,3 +136,4 @@
   src="https://github-readme-activity-graph.vercel.app/graph?username=gtixang&theme=react-dark&bg_color=20232a&hide_border=true"
   width="100%"
 />
+📫 **Мой тг для связи**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
