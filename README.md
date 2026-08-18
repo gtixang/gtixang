@@ -11,6 +11,7 @@
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
+       <i class="devicon-react-original colored"></i>
       <a href="#ndiuky-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
       </a>
