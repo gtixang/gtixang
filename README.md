@@ -110,7 +110,7 @@
   </tr>
 </table>
 <br>
-⚡**Статистика**
+⚡ **Статистика**
 <br>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <a href="https://github.com/gtixang/github-readme-stats">
