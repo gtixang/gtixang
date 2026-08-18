@@ -1,6 +1,6 @@
  ## Привет! 👋
  
-👨‍💻 **Frontend-разработчик**  специализирующийся на React
+👨‍💻 **Frontend-разработчик**,  специализирующийся на React
 
 <blockquote><b>Core & Frontend</b></blockquote>
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
