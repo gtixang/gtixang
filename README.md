@@ -2,8 +2,6 @@
  
 👨‍💻 **Frontend-разработчик**  React | TypeScript | JavaScript  | Next.js
 
-<h3>🛠️ Tech Stack</h3>
-
 <blockquote><b>Core & Frontend</b></blockquote>
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
