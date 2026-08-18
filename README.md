@@ -4,8 +4,6 @@
 
 📫 **Давайте свяжемся**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 
-🛠️ **Технологии**
-
 <h3>🛠️ Tech Stack</h3>
 
 <blockquote><b>Core & Frontend</b></blockquote>
