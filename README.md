@@ -67,24 +67,6 @@
   <tr>
     <td align="center" width="110" height="90" style="vertical-align: middle;">
       <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular"/>
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="36" height="36" alt="RxJs"/>
-      </a>
-      <br>RxJs
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg"  width="36" height="36" alt="NGRX"/>
-      </a>
-      <br>NGRX
-    </td>
-    <td align="center" width="110" height="90" style="vertical-align: middle;">
-      <a href="#ndiuky-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
