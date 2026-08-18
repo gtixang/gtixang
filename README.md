@@ -110,7 +110,8 @@
   </tr>
 </table>
 <br>
-📫 **Для связи со мной**: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
+📫 **Для связи со мной**: 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 <br>
 ⚡**Статистика**
 <br>
